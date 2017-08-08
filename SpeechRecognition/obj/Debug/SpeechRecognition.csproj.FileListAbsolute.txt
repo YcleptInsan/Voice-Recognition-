@@ -1,0 +1,9 @@
+c:\users\epicodus\documents\visual studio 2015\Projects\SpeechRecognition\SpeechRecognition\bin\Debug\SpeechRecognition.exe.config
+c:\users\epicodus\documents\visual studio 2015\Projects\SpeechRecognition\SpeechRecognition\bin\Debug\SpeechRecognition.exe
+c:\users\epicodus\documents\visual studio 2015\Projects\SpeechRecognition\SpeechRecognition\bin\Debug\SpeechRecognition.pdb
+c:\users\epicodus\documents\visual studio 2015\Projects\SpeechRecognition\SpeechRecognition\obj\Debug\SpeechRecognition.csprojResolveAssemblyReference.cache
+c:\users\epicodus\documents\visual studio 2015\Projects\SpeechRecognition\SpeechRecognition\obj\Debug\SpeechRecognition.Form1.resources
+c:\users\epicodus\documents\visual studio 2015\Projects\SpeechRecognition\SpeechRecognition\obj\Debug\SpeechRecognition.Properties.Resources.resources
+c:\users\epicodus\documents\visual studio 2015\Projects\SpeechRecognition\SpeechRecognition\obj\Debug\SpeechRecognition.csproj.GenerateResource.Cache
+c:\users\epicodus\documents\visual studio 2015\Projects\SpeechRecognition\SpeechRecognition\obj\Debug\SpeechRecognition.exe
+c:\users\epicodus\documents\visual studio 2015\Projects\SpeechRecognition\SpeechRecognition\obj\Debug\SpeechRecognition.pdb
